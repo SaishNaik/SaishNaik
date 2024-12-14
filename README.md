@@ -1,10 +1,19 @@
 ## Hi there 👋
 
+I am Saish Naik 
+<!-- Here are some ideas to get you started: -->
+
+### Technical proficiencies include:
+- **Languages worked on:** Golang, Nodejs, PHP, JAVA, Nodejs, Scala, JS.
+- **Proficient in:** Golang, Nodejs, PHP.
+- **Databases worked on:** MySQL, Mongo, Cassandra, Redis, BigQuery, Druid, DataBricks.
+- **Frontend:** HTML, CSS, JQuery, JSON, XML.
+<!-- - **Methodologies:** OOP, Agile, Kanban, TDD, BDD, Pair-programming. -->
+- **Principles and patterns:** Microservices, SOLID, Hexagonal architecture, Clean Architecture.
+- **Cloud service:** GCP, AWS, Linode, Digital Ocean.
+- **Others:** Kubernetes, Docker, Spark, RabbitMQ, Docker, Git.
+
 <!--
-**SaishNaik/SaishNaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
